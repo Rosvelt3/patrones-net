@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FactoryMethod": {
+      "commandName": "Project",
+      "commandLineArgs": "imagen.jpeg"
+    }
+  }
+}
